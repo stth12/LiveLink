@@ -58,6 +58,15 @@ It illustrates the controls, rather than a multi-iPhone hardware test.
 | Use a native receiver | SwiftUI controls, RemoteIO audio and background audio support |
 | Start with Windows | Installer, optional startup and private-network firewall configuration |
 
+## Download
+
+[**Download Live Link 0.1.0**](https://github.com/stth12/LiveLink/releases/tag/v0.1.0)
+
+- **Windows:** `LiveLinkSetup-0.1.0.exe` — controller, background process and VST3 installer.
+- **iPhone:** `LiveLink-0.1.0-unsigned.ipa` — for signing and installation with Sideloadly or AltStore Classic.
+
+See the [installation guide](docs/SIDELOADING.md). This is a prerelease; USB streaming is unavailable.
+
 ## Get started
 
 1. **Windows:** build and install the controller, background process and VST3
