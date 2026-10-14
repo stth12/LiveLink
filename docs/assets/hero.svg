@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#11111d"/><stop offset="1" stop-color="#07070c"/></linearGradient><linearGradient id="pink"><stop stop-color="#ff2d8d"/><stop offset="1" stop-color="#bd5aff"/></linearGradient></defs>
+<rect width="1200" height="380" rx="24" fill="url(#bg)"/>
+<circle cx="1040" cy="90" r="200" fill="#ff2d8d" opacity=".04"/>
+<circle cx="1040" cy="90" r="140" fill="none" stroke="#ff2d8d" stroke-opacity=".12"/>
+<g stroke="url(#pink)" stroke-width="12" stroke-linecap="round"><path d="M76 140v44 M100 120v84 M124 100v124 M148 120v84 M172 140v44"/></g>
+<text x="210" y="184" fill="#f6f5fa" font-family="Segoe UI,Arial,sans-serif" font-size="76" font-weight="700" letter-spacing="-3">LIVE LINK</text>
+<text x="76" y="269" fill="#c5c2d5" font-family="Segoe UI,Arial,sans-serif" font-size="27">Your session. Another listening point.</text>
+<text x="76" y="316" fill="#79758f" font-family="Segoe UI,Arial,sans-serif" font-size="17" letter-spacing="3">WINDOWS VST3  /  LOCAL NETWORK  /  NATIVE iOS</text>
+<g fill="none" stroke="url(#pink)" stroke-width="3"><rect x="830" y="137" width="128" height="90" rx="9"/><path d="M864 248h60 M894 227v21 M986 180h48"/><rect x="1060" y="108" width="66" height="143" rx="14"/><path d="M1081 122h24 M1080 237h26"/></g>
+<g fill="#ff2d8d"><circle cx="992" cy="180" r="4"/><circle cx="1009" cy="180" r="4"/><circle cx="1026" cy="180" r="4"/></g>
+</svg>
