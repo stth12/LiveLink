@@ -19,4 +19,6 @@ machine-specific logs and upstream JUCE sources are excluded.
    whether each artifact is signed. Do not upload signing material or credentials.
 6. Keep the early-release status, AGPL license and USB limitation visible.
 
-No remote repository is configured and no publication has been performed.
+The public repository is https://github.com/stth12/LiveLink, with `main` as the
+default branch. For subsequent updates, review changes, commit them and run
+`git push`. Release artifacts are published separately from the source tree.
