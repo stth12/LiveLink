@@ -1,0 +1,8 @@
+version: 1
+bundleID: audio.livelink.receiver
+infoPath: ios/xtool/Info.plist
+iconPath: ios/LiveLink/Assets.xcassets/AppIcon.appiconset/LiveLink.png
+skipLSP: true
+resources:
+  - LICENSE
+  - COPYING
